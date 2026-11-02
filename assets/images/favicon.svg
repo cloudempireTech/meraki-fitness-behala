@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="merakiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="#0b101b" stroke="#10b981" stroke-width="3"/>
+  <path d="M26 68 L26 32 L40 52 L50 38 L60 52 L74 32 L74 68" fill="none" stroke="url(#merakiGrad)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
